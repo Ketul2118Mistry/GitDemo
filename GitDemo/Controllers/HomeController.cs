@@ -10,6 +10,10 @@ namespace GitDemo.Controllers
     {
         public ActionResult Index()
         {
+            var k = "";
+            var k = "";
+            var k = "";
+            var k = "";
             return View();
         }
 
